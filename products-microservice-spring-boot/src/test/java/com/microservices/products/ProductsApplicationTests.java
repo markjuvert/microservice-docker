@@ -1,10 +1,10 @@
-package com.microservices.shoes;
+package com.microservices.products;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShoesApplicationTests {
+class ProductsApplicationTests {
 
 	@Test
 	void contextLoads() {
