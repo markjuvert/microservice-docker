@@ -39,7 +39,7 @@ const App = () => {
       <div className="pt4 pb1 tc">
         Go save the world with JavaScript
         <br/> <br/> <br/>
-        <button name="shoe/shoes" onClick={handleApiCall} style={{margin:'0px 10px'}}>Shoes</button>
+        <button name="products/products" onClick={handleApiCall} style={{margin:'0px 10px'}}>Products</button>
         <button name="offer/offers" onClick={handleApiCall} style={{margin:'0px 10px'}}>Offers</button>
         <button name="cart" onClick={handleApiCall} style={{margin:'0px 10px'}}>Cart</button>
         <button name="wishlist" onClick={handleApiCall} style={{margin:'0px 10px'}}>Wishlist</button>
