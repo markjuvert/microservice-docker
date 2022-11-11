@@ -32,8 +32,8 @@ const App = () => {
   return (
     <>
       <header className="pv5 bg-gold black-80">
-        <h1 className="mt0 mb1 tc">Web App</h1>
-        <div className="tc ttc">microservices-architect-config-starter</div>
+        <h1 className="mt0 mb1 tc">DevOps Sample Micro-service app</h1>
+        <div className="tc ttc">Deploying Mircro Services using Docker</div>
         <div className="tc ttc">Sample Microservice calls</div>
       </header>
       <div className="pt4 pb1 tc">
