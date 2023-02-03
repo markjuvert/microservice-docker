@@ -11,4 +11,4 @@ Section III: Deploy the microservices using Docker Compose and Docker swarm
 
 ![Illustration](images/route.png)
 
-Please click on the link to view the full summary of the demonstration
+Please click on the link to view the full summary of the demonstration http://www.docker-microservice.cloud2day.link/
