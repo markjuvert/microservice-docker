@@ -1,31 +1,14 @@
-# microservices-architect-config-starter
-Microservices Architecture Configuration Starter Sample
+# Microservices
 
+This Demonstration is about Deploying Micro-services Using Docker
 
+In this demo, I deployed six different microservices made up of a react application, Zuul api gateway for load balancingand route traffic to the appropriate service, product service, offers service, cart service and whishlist servicess.
 
+It is made up of three sections.
+Section I: Create Services and Dockerfiles
+Section II: Build images and deploy the services
+Section III: Deploy the microservices using Docker Compose and Docker swarm
 
-Architecture of sample multiple microservices developed in different technologies - Spring Boot, Node.js, Python, React.js in a project.
-Microservices connected by an API Gateway using Netflix Zuul.
+![Illustration](images/route.png)
 
-
-## Application Architecture
-
-The application consists of 6 different Microservices
-
--   [shoes-microservice-spring-boot](https://github.com/sarat9/microservices-architect-config-starter/tree/main/shoes-microservice-spring-boot)  - Spring Boot App with Shoe data
--   [offers-microservice-spring-boot](https://github.com/sarat9/microservices-architect-config-starter/tree/main/offers-microservice-spring-boot)  - Spring Boot App with Offers data
--   [cart-microservice-nodejs](https://github.com/sarat9/microservices-architect-config-starter/tree/main/cart-microservice-nodejs)  - Node.js App with Cart data
--   [wishlist-microservice-python](https://github.com/sarat9/microservices-architect-config-starter/tree/main/wishlist-microservice-python)  - Python App with Wishlist data
--   [zuul-api-gateway](https://github.com/sarat9/microservices-architect-config-starter/tree/main/zuul-api-gateway)  - API gateway that proxies all the micro-services
--   [ui-web-app-reactjs](https://github.com/sarat9/microservices-architect-config-starter/tree/main/ui-web-app-reactjs)  - Single Page Application that provides the UI
-
-
-
-
-
-
-
-
-![MicroService Architeture ](https://miro.medium.com/max/1050/1*kSLJKEl3X-gKNTpO1l7SQg.png)# Microservices Architecture Sample!
-
-Feel Free to contribute.. 
+Please click on the link to view the full summary of the demonstration
